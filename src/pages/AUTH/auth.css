@@ -1,0 +1,28 @@
+
+.authForm {
+  display: flex;
+  justify-content: center;
+  min-height: 100vh;
+  background-color: #001529;
+}
+
+.authForm__title {
+  font-weight: bold;
+  font-size: 30px;
+  margin-bottom: 25px;
+}
+
+.authForm__card {
+  margin: 100px;
+  width: 400px;
+  background-color: white;
+  height: fit-content;
+  padding: 30px;
+  border-radius: 5px;
+}
+.form_Oauth {
+  padding: 10px;
+  display: inline-block;
+  font-size: 14px;
+  background-color: gray;
+}
